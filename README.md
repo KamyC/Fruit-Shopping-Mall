@@ -11,3 +11,9 @@
 3. Next Step:
    - Replace html with ejs file. Less hardcoding in front end side
    - Trying to create REST api for front end which reduces queries to the database
+
+4. Preview:
+
+   ![image](https://github.com/KamyC/Fruit-Shopping-Mall/blob/master/demoPics/1.jpg)
+
+   ![image](https://github.com/KamyC/Fruit-Shopping-Mall/blob/master/demoPics/2.jpg)
