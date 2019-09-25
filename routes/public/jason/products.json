@@ -1,0 +1,100 @@
+[
+  {
+    "name" : "apple",
+    "unitPrice" : 0.40,
+    "picture" : "apple.png",
+    "type" : "fruit"
+  },
+  {
+    "name" : "banana",
+    "unitPrice" : 0.99,
+    "picture" : "banana.jpg",
+    "type" : "fruit"
+  },
+  {
+    "name" : "broccoli",
+    "unitPrice" : 1.85,
+    "picture" : "broccoli.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "cauliflower",
+    "unitPrice" : 1.99,
+    "picture" : "cauliflower.jpg",
+    "type" : "vegetables"
+  },
+  {
+    "name" : "chicken breast",
+    "unitPrice" : 3.58,
+    "picture" : "chickenbreast.jpg",
+    "type" : "poultry"
+  },
+  {
+    "name" : "ice tea",
+    "unitPrice" : 3.52,
+    "picture" : "icetea.jpg",
+    "type" : "beverage"
+  },
+  {
+    "name" : "milk",
+    "unitPrice" : 3.58,
+    "picture" : "milk1.jpg",
+    "type" : "beverage"
+  },
+  {
+    "name" : "rrange",
+    "unitPrice" : 0.59,
+    "picture" : "orange.jpg",
+    "type" : "fruit"
+  },
+  {
+    "name" : "rrange Juice",
+    "unitPrice" : 1.40,
+    "picture" : "orangejuice.jpg",
+    "type" : "beverage"
+  },
+  {
+    "name" : "pineapple",
+    "unitPrice" : 2.45,
+    "picture" : "Pineapple.jpg",
+    "type" : "Fruit"
+  },
+  {
+    "name" : "salmon fillet",
+    "unitPrice" : 7.89,
+    "picture" : "salmonfillet.jpg",
+    "type" : "seafood"
+  },
+  {
+    "name" : "sea bass",
+    "unitPrice" : 4.49,
+    "picture" : "seabass.jpg",
+    "type" : "seafood"
+  },
+  {
+    "name" : "shrimp",
+    "unitPrice" : 5.49,
+    "picture" : "shrimp.jpg",
+    "type" : "Seafood"
+  },
+
+  {
+    "name" : "steak",
+    "unitPrice" : 5.49,
+    "picture" : "steak.jpg",
+    "type" : "Poultry"
+  },
+  {
+    "name" : "tomato",
+    "unitPrice" : 1.49,
+    "picture" : "Tomato.jpg",
+    "type" : "Vegetables"
+  },
+  {
+    "name" : "turkey",
+    "unitPrice" : 8.49,
+    "picture" : "turkey.jpg",
+    "type" : "poultry"
+  }
+
+]
